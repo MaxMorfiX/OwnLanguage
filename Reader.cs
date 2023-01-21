@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ownProgrammingLanguage {
+namespace OwnProgrammingLanguage {
     class Reader {
 
         public static int[] vars = new int[100];
@@ -41,6 +41,12 @@ namespace ownProgrammingLanguage {
                     int value = Convert.ToInt32(parameters[1]);
 
                     Commands.set(ref variable, value);
+                }
+                //get command
+                if(commandName == "get") {
+                    ref int variable = ref vars[Convert.ToInt32(parameters[0])];
+
+                    Commands.get(ref variable);
                 }
 
                 //log command

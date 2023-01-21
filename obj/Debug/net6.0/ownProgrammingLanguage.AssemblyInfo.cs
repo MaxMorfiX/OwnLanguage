@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ownProgrammingLanguage")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("OwnProgrammingLanguage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ownProgrammingLanguage")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ownProgrammingLanguage")]
+[assembly: System.Reflection.AssemblyProductAttribute("OwnProgrammingLanguage")]
+[assembly: System.Reflection.AssemblyTitleAttribute("OwnProgrammingLanguage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -2,10 +2,10 @@
 using System.IO;
 using System.Text;
 
-namespace ownProgrammingLanguage {
+namespace OwnProgrammingLanguage {
     class Program {
 
-        static string codePath = @"D:\programming\C#\ownProgrammingLanguage\UserInputs\UserScript.ownl";
+        static string codePath = @"D:\programming\C#\OwnProgrammingLanguage\UserInputs\UserScript.ownl";
 
         static string[] codeLines;
 

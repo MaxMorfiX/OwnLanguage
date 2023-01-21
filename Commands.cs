@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ownProgrammingLanguage {
+namespace OwnProgrammingLanguage {
     class Commands {
 
         public static void set(ref int variable, int value) {
@@ -51,6 +51,8 @@ namespace ownProgrammingLanguage {
 
         }
 
-
+        public static void get(ref int resultVariable) {
+            resultVariable = Convert.ToInt32(Console.ReadLine());
+        }
     }
 }
