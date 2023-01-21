@@ -1,0 +1,15 @@
+D:\programming\C#\ownProgrammingLanguage\obj\Debug\net6.0\ownProgrammingLanguage.csproj.AssemblyReference.cache
+D:\programming\C#\ownProgrammingLanguage\obj\Debug\net6.0\ownProgrammingLanguage.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\ownProgrammingLanguage\obj\Debug\net6.0\ownProgrammingLanguage.AssemblyInfoInputs.cache
+D:\programming\C#\ownProgrammingLanguage\obj\Debug\net6.0\ownProgrammingLanguage.AssemblyInfo.cs
+D:\programming\C#\ownProgrammingLanguage\obj\Debug\net6.0\ownProgrammingLanguage.csproj.CoreCompileInputs.cache
+D:\programming\C#\ownProgrammingLanguage\bin\Debug\net6.0\ownProgrammingLanguage.exe
+D:\programming\C#\ownProgrammingLanguage\bin\Debug\net6.0\ownProgrammingLanguage.deps.json
+D:\programming\C#\ownProgrammingLanguage\bin\Debug\net6.0\ownProgrammingLanguage.runtimeconfig.json
+D:\programming\C#\ownProgrammingLanguage\bin\Debug\net6.0\ownProgrammingLanguage.dll
+D:\programming\C#\ownProgrammingLanguage\bin\Debug\net6.0\ownProgrammingLanguage.pdb
+D:\programming\C#\ownProgrammingLanguage\obj\Debug\net6.0\ownProgrammingLanguage.dll
+D:\programming\C#\ownProgrammingLanguage\obj\Debug\net6.0\refint\ownProgrammingLanguage.dll
+D:\programming\C#\ownProgrammingLanguage\obj\Debug\net6.0\ownProgrammingLanguage.pdb
+D:\programming\C#\ownProgrammingLanguage\obj\Debug\net6.0\ownProgrammingLanguage.genruntimeconfig.cache
+D:\programming\C#\ownProgrammingLanguage\obj\Debug\net6.0\ref\ownProgrammingLanguage.dll
